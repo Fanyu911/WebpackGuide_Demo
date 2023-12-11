@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Fanyu911/WebpackGuide_Demo#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.4",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   },
